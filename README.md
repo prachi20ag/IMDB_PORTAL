@@ -4,9 +4,9 @@
 
 **Features:**
 
-1. Get movie information by title
-2. Find top rated movies
-3. Rename the directories which contain the movies by appending IMDB rating and year of release to it.
+1. Get movie information using title
+2. Find top rated movies based upon IMDB ratings
+3. Rename the files in directories which contain the movies by appending IMDB rating and year of release to the filename.
 
 **Modules used:**
 
